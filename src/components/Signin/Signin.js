@@ -60,7 +60,7 @@ const Signin = () => {
         <div className={styles.signin_link}>
           <p>
             Already have an account ?{" "}
-            <Link to="/project" className={styles.signup}>
+            <Link to="/project/" className={styles.signup}>
               SIGN UP
             </Link>
           </p>
